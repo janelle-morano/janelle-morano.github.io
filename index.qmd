@@ -1,0 +1,38 @@
+---
+title: "Janelle L. Morano"
+image: JLMheadshot.jpeg
+about: 
+  template: trestles
+  image-shape: rounded
+  links:
+    - icon: google
+      href: https://scholar.google.com/citations?user=VFeC9asAAAAJ&hl=en
+      aria-label: Google Scholar
+    - icon: github
+      href: https://github.com/jlmorano
+      aria-label: GitHub
+    - icon: twitter
+      href: https://twitter.com/janellelmorano
+      aria-label: Twitter
+    - icon: linkedin
+      href: https://www.linkedin.com/in/janelle-l-morano-7583aa98/
+      aria-label: Linkedin
+    - icon: envelope
+      href: mailto:janelle.morano@cornell.edu
+      aria-label: Email
+---
+
+I use quantitative approaches to understand long-term patterns of species distributions, movement, population dynamics, and community assemblages. I am interested in how the marine community is responding to climate change by examining current spatio-temporal distributions and making forecasts for the future.
+
+I am also interested in how we can adapt our fisheries management strategies and planning under a drastically changing climate.
+
+I have also researched the behavior, ecology, and evolution of acoustic signals in animals: what sounds animals make and why do they make them. Much of this work centered around using passive acoustic monitoring tools to track species’ movement patterns, and informed my current research.
+
+## Education
+
+**BA in Marine Biology** | Boston University, Boston, MA 
+
+**MS in Biology** | Loyola University Chicago, Chicago, IL
+
+**Currently a Ph.D. Candidate & NMFS-Sea Grant Population and Ecosystem Dynamics Fellow** | Cornell University, Ithaca, NY
+
