@@ -21,3 +21,9 @@ My dissertation work is on 3 questions:
 ### Spatio-temporal Distribution of Atlantic Menhaden
 
 I am focusing on Atlantic menhaden, *Brevoortia tyrannus*, because it is a prey species to multiple managed and protected species (e.g., striped bass, humpback whales), it is the largest managed fishery, by biomass, on the US east coast, and management includes ecological reference points regarding menhaden’s interactions with predators and the status of other prey species. The results will define local spatio-temporal distributional changes for menhaden, predict distribution scenarios, assess the risks and consequences of distributional changes, and provide options for effectively presenting this information and informing management decisions. I will consider how the accuracy and risks of the results for menhaden are applicable to other forage fishes and their predators and propose options for a more dynamic fisheries management response.
+
+#### Preliminary Results
+
+These are gifs associated with a presentation given of preliminary results. 
+
+![Menhaden observations 1972-2021 within the statistical survey area, where red indicates survey sites with menhaden presence, otherwise dots are survey sites where menhaden are absent.](/menhaden_presence_animation_1972-2021_Spring.gif)
