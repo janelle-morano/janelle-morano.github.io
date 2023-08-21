@@ -33,4 +33,4 @@ Lab training and independent research: Predator threat information encoding in b
 Cornell University undergraduate, class of 2013.
 Senior Honors Thesis: Changes in acoustic behavior of sperm whales in the Gulf of Mexico following the Deepwater Horizon oil spill
 
-Published McDonald, E., J. L. Morano, A.I. DeAngelis, A. N. Rice. 2017. Building time-budgets from bioacoustic signals to measure population-level changes in behavior: a case study with sperm whales in the Gulf of Mexico. Ecological Indicators 72: 360-364. DOI: 10.1016/j.ecolind.2016.08.028 
+Published McDonald, E., J. L. Morano, A.I. DeAngelis, A. N. Rice. 2017. Building time-budgets from bioacoustic signals to measure population-level changes in behavior: a case study with sperm whales in the Gulf of Mexico. Ecological Indicators 72: 360-364. [https://doi.org/10.1016/j.ecolind.2016.08.028](https://doi.org/10.1016/j.ecolind.2016.08.028)

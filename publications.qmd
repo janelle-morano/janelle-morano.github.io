@@ -39,7 +39,7 @@ Dugan, P. J., D. W. Ponirakis, J. A. Zollweg, M. S. Pitzrick, **J. L. Morano**, 
 Clark, C. W., C. Tremblay, M. Fowler, C. Diamond, D. Ponirakis, C. McCarthy, **J. L. Morano**, C. Muirhead, A. Murray, L. Rowland, K. Vannicola, and A. Warde.  2008. Monitoring, measuring and describing ocean noise over ecologically viable scales with applications to impacts on large whales.  Journal of the Acoustical Society of America, 123(5): 2987. [https://doi.org/10.1121/1.2932520](https://doi.org/10.1121/1.2932520)
 
 # Published Abstracts
-Cheyne, H. A., P. M. Marchetto, R. C. Mack, D. P. Salisbury, and **J. L. Morano**. 2014. Improving acoustic time-of-arrival location estimates by correcting for temperature drift in time base oscillators. Journal of the Acoustical Society of America, 135: 2367. DOI: 10.1121/1.4877802
+Cheyne, H. A., P. M. Marchetto, R. C. Mack, D. P. Salisbury, and **J. L. Morano**. 2014. Improving acoustic time-of-arrival location estimates by correcting for temperature drift in time base oscillators. Journal of the Acoustical Society of America, 135: 2367. [https://doi.org/10.1121/1.4877802](https://doi.org/10.1121/1.4877802)
 
 # Data Products
-Seasonal Movements of Gulf of Mexico Sperm Whales Following the Deepwater Horizon Oil Spill and the Limitations of Impact Assessments, Data Products (Jun 2010 to Feb 2012). (2020). NOAA National Centers for Environmental Information. https://doi.org/10.25921/qrvr-5386
+Seasonal Movements of Gulf of Mexico Sperm Whales Following the Deepwater Horizon Oil Spill and the Limitations of Impact Assessments, Data Products (Jun 2010 to Feb 2012). (2020). NOAA National Centers for Environmental Information. [https://doi.org/10.25921/qrvr-5386](https://doi.org/10.25921/qrvr-5386)
